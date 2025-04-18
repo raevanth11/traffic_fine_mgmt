@@ -30,31 +30,3 @@ The system has major four roles; Traffic Police Admin, Traffic Police Officer, V
 ✔️ Visual Studio Code<br>
 ✔️ Android Studio<br>
 
-
-## Web Application Screenshots
-
-<img src="screenshots/2.JPG"><br>
-
-<img src="screenshots/3.JPG"><br>
-
-<img src="screenshots/4.JPG"><br>
-
-<img src="screenshots/5.JPG"><br>
-
-<img src="screenshots/6.JPG"><br>
-
-<img src="screenshots/7.JPG"><br>
-
-<img src="screenshots/8.JPG"><br>
-
-<img src="screenshots/9.JPG"><br>
-
-<img src="screenshots/10.JPG"><br><br><br>
-
-## Police Officer Mobile Application Screenshots
-
-<img src="screenshots/mp1.jpg" width="200" height="auto"> <img src="screenshots/mp2.jpg" width="200" height="auto"> <img src="screenshots/mp3.jpg" width="200" height="auto"> <img src="screenshots/mp4.jpg" width="200" height="auto"><br><br><br>
-
-## Driver Mobile Application Screenshots
-
-<img src="screenshots/md1.jpg" width="200" height="auto"> <img src="screenshots/md2.jpg" width="200" height="auto"> <img src="screenshots/md3.jpg" width="200" height="auto"> <img src="screenshots/mp4.jpg" width="200" height="auto"><br><br><br>
